@@ -28,7 +28,7 @@ body {
 header {
     font-family: var(--font-destaque);
     background-image: linear-gradient(to bottom, var(--cor2), var(--cor5));
-    min-width: 350px;
+    min-width: 400px;
     color: #ffffff;
     text-align: center;
     padding: 10px;
