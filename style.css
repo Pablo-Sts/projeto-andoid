@@ -20,6 +20,7 @@
 }
 * {
     margin: 0;
+    padding: 0;
 }
 body {
     font-family:var(--font-padrão);
@@ -30,7 +31,6 @@ header {
     background-image: linear-gradient(to bottom, var(--cor2), var(--cor5));
     color: #ffffff;
     text-align: center;
-    width: 100vw;
     padding: 10px;
 }
 header h1 {
