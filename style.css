@@ -78,7 +78,7 @@ main p {
 main {
     background-color: #ffffff;
     max-width: 1000px;
-    min-width: 320px;
+    min-width: 300px;
     margin: auto;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.486);
