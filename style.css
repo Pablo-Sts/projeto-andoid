@@ -28,6 +28,7 @@ body {
 header {
     font-family: var(--font-destaque);
     background-image: linear-gradient(to bottom, var(--cor2), var(--cor5));
+    min-width: 350px;
     color: #ffffff;
     text-align: center;
     padding: 10px;
@@ -76,7 +77,7 @@ main p {
 main {
     background-color: #ffffff;
     max-width: 1000px;
-    min-width: 300px;
+    min-width: 350px;
     margin: auto;
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.486);
